@@ -31,11 +31,17 @@ module.exports = appInfo => {
       // port
       port: '3306',
       // username
-      user: 'root',
+      //'Orcade'
+      //'root'
+      user: 'Orcade',
       // password
-      password: 'Mmmysql1997',
+      //'nhFB6LHf2Pmtrj5T'
+      //'Mmmysql1997'
+      password: 'nhFB6LHf2Pmtrj5T',
       // database
-      database: 'React_blog',
+      //'react_blog'
+      //'React_blog'
+      database: 'react_blog',
     },
     // load into app, default is open
     app: true,
