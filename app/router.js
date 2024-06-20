@@ -4,7 +4,7 @@
 module.exports = app => {
 
   /**
- * 引入 shishsishishi
+ * 引入 banben
  */
 require('./router/default')(app)
 require('./router/admin')(app)
